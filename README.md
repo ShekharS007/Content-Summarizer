@@ -22,7 +22,7 @@ Developed an intuitive interface using Hugging Face Gradio, ensuring ease of use
 
 ## Installation Instructions:
 1. Clone the Repository:
-  git clone https://github.com/yourusername/ai-education-tool.git
+  git clone -----
   cd ai-education-tool
 
 2. Set Up the Virtual Environment:
