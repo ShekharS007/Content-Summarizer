@@ -24,7 +24,6 @@ Developed an intuitive interface using Hugging Face Gradio, ensuring ease of use
 1. Clone the Repository:
    <br>
   git clone -----
-  <br> 
   cd ai-education-tool
 
 2. Set Up the Virtual Environment:
