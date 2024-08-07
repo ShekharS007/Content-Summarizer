@@ -23,12 +23,12 @@ Developed an intuitive interface using Hugging Face Gradio, ensuring ease of use
 ## Installation Instructions:
 1. Clone the Repository:
    <br>
-  git clone https://github.com/ShekharS007/Content-Summarizer/blob/main/main.py <br>
+  git clone https://github.com/ShekharS007/Content-Summarizer.git <br>
   cd ai-education-tool
 
 2. Set Up the Virtual Environment:
    <br>
-  virtualenv my_env <br>
+  virtualenv my_env <br>    https://github.com/ShekharS007/Content-Summarizer.git
   source my_env/bin/activate
 
 3. Install Dependencies:
