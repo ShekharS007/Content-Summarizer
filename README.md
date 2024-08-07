@@ -24,7 +24,7 @@ Developed an intuitive interface using Hugging Face Gradio, ensuring ease of use
 1. Clone the Repository:
    <br>
   git clone https://github.com/ShekharS007/Content-Summarizer.git <br>
-  cd ai-education-tool
+  cd Content-Summarizer
 
 2. Set Up the Virtual Environment:
    <br>
