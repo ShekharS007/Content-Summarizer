@@ -28,14 +28,12 @@ Developed an intuitive interface using Hugging Face Gradio, ensuring ease of use
 
 2. Set Up the Virtual Environment:
    <br>
-  virtualenv my_env
-  <br>
+  virtualenv my_env <br>
   source my_env/bin/activate
 
 3. Install Dependencies:
    <br>
-  pip install -r requirements.txt
-  <br>
+  pip install -r requirements.txt <br>
   sudo apt install ffmpeg -y
 
 4. Run the Application:
