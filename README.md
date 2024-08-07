@@ -22,18 +22,25 @@ Developed an intuitive interface using Hugging Face Gradio, ensuring ease of use
 
 ## Installation Instructions:
 1. Clone the Repository:
-  git clone ----- <br> 
+   <br>
+  git clone -----
+  <br> 
   cd ai-education-tool
 
 2. Set Up the Virtual Environment:
-  virtualenv my_env <br>
+   <br>
+  virtualenv my_env
+  <br>
   source my_env/bin/activate
 
 3. Install Dependencies:
-  pip install -r requirements.txt <br>
+   <br>
+  pip install -r requirements.txt
+  <br>
   sudo apt install ffmpeg -y
 
 4. Run the Application:
+   <br>
   python main.py
 
 ## Usage:
