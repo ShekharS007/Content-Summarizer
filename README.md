@@ -1,1 +1,37 @@
 # Content-Summarizer
+
+## Description:
+This project showcases the development of an AI-powered tool designed to enhance educational content handling. It integrates text generation, speech-to-text conversion, and content summarization into a single, user-friendly interface.
+
+## Learning Objectives:
+
+1. Text Generation with LLM:
+Created a Python script using models from the Hugging Face Hub.
+Explored key parameters influencing the model's output.
+Gained an understanding of how to switch between different LLM models.
+
+2. Speech-to-Text Conversion:
+Utilized OpenAI's Whisper technology for accurate transcription of lecture recordings.
+
+
+3. Content Summarization:
+Implemented IBM Watson's AI to summarize transcribed lectures and extract key points.
+
+4. User Interface Development:
+Developed an intuitive interface using Hugging Face Gradio, ensuring ease of use for students and educators.
+
+## Installation Instructions:
+1. Clone the Repository:
+git clone https://github.com/yourusername/ai-education-tool.git
+cd ai-education-tool
+
+2. Set Up the Virtual Environment:
+virtualenv my_env
+source my_env/bin/activate
+
+3. Install Dependencies:
+pip install -r requirements.txt
+sudo apt install ffmpeg -y
+
+4. Run the Application:
+python main.py
