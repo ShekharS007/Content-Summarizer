@@ -28,7 +28,6 @@ Developed an intuitive interface using Hugging Face Gradio, ensuring ease of use
 
 2. Set Up the Virtual Environment:
    <br>
-  virtualenv my_env <br>    https://github.com/ShekharS007/Content-Summarizer.git
   source my_env/bin/activate
 
 3. Install Dependencies:
