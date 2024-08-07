@@ -22,16 +22,22 @@ Developed an intuitive interface using Hugging Face Gradio, ensuring ease of use
 
 ## Installation Instructions:
 1. Clone the Repository:
-git clone https://github.com/yourusername/ai-education-tool.git
-cd ai-education-tool
+  git clone https://github.com/yourusername/ai-education-tool.git
+  cd ai-education-tool
 
 2. Set Up the Virtual Environment:
-virtualenv my_env
-source my_env/bin/activate
+  virtualenv my_env
+  source my_env/bin/activate
 
 3. Install Dependencies:
-pip install -r requirements.txt
-sudo apt install ffmpeg -y
+  pip install -r requirements.txt
+  sudo apt install ffmpeg -y
 
 4. Run the Application:
-python main.py
+  python main.py
+
+## Usage:
+1. Generate Text: Utilize the provided script to generate coherent text using Hugging Face LLM models.
+2. Transcribe Lectures: Use OpenAI's Whisper for accurate speech-to-text conversion.
+3. Summarize Content: Implement IBM Watson AI to extract key points and summarize transcribed lectures.
+4. User Interface: Interact with the tool via an intuitive Gradio-based web interface.
